@@ -1,3 +1,4 @@
+//this program is written using if and if else 
 #include<iostream>
 	
 using namespace std;
